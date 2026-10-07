@@ -1,0 +1,15 @@
+# Excel temporary and lock files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+*.tmp
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Office auto-recover / crash recovery files
+*.xar
+*.crdownload
+
